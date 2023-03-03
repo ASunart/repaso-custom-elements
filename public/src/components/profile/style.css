@@ -1,0 +1,11 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tarjeta {
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
